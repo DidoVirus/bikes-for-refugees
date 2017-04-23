@@ -119,6 +119,10 @@ body {
 	margin-bottom: 0;
 }
 
+.jumbotron {
+	background-image: url("../images/header-bike.jpg");
+}
+
 @media screen and (min-width: 992px) {
 
 	.navbar-brand > img {
